@@ -12,4 +12,4 @@ Click on the cell you want to open.
 MemoryGame is implemented with module pygame.
 MemoryGame itself is open source with a public repository
 on GitHub.
- <p align="center"><img  src="https://drive.google.com/file/d/1qrFrSqvg-JcS0EqpAB7rwoCkxsriJGky/view?usp=sharing" width="100%"></p>
+ <p align="center"><img  src="./readme_assets/Start.png" width="100%"></p>
