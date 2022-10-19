@@ -2,6 +2,7 @@
 ## Description
 A game for the development of visual memory, attention, imaginative and logical thinking, observation. You need to find a pair of matching cells.
 ## How to play
+[Play](https://drive.google.com/file/d/1ZC-x1QEa-8hgl8orremh9bJbOpW7wi1k/view?usp=sharing)
 The player opens any two cells.
 <p align="center"><img  src="./readme_assets/Start.png" width="30%"></p>
 If they show the same drawings, they remain open.
